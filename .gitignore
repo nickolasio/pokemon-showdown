@@ -1,9 +1,7 @@
-/config/*
 !/config/formats.ts
 /logs/*
 /test/modlogs
 /test/replays/*.html
-/node_modules
 /eslint-cache
 /server/chat-plugins/private
 /server/chat-plugins/private.js
@@ -25,7 +23,7 @@ tools/modlog/converter.js
 
 # visual studio live share
 .vs
-
+discord-showdown.zip
 # boilerplate #
 ###############
 
